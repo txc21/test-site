@@ -116,7 +116,7 @@ body {
 }
 .login-btn:hover {
     background: #0B87EC;
-    filter: blur(2px)
+    filter: blur(20px)
 }
 .register {
     margin-top: 15px;
